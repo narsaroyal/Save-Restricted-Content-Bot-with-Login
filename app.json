@@ -1,7 +1,7 @@
 {
   "name": "save-restricted-bot-with-login",
   "description": "Save Restricted Bot with Login Features",
-  "repository": "https://github.com/devgaganin/Save-Restricted-Bot-with-Login/",
+  "repository": "https://github.com/narsaroyal/Save-Restricted-Bot-with-Login/",
   "keywords": ["telegram", "bot", "python"],
   "addons": [],
   "scripts": {
